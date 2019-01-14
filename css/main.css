@@ -52,6 +52,11 @@ p {
   margin-bottom: 15px;
   line-height: 1.4;
 }
+h3 {
+  font-size: 18px;
+  font-family:cursive;
+  font-weight: bold;
+}
 
 .container {
   box-sizing: border-box;
